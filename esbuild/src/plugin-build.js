@@ -13,7 +13,7 @@ async function runBuild() {
     sourcemap: false,
     metafile: true,
     plugins: [
-      // httpImport(),
+      httpImport(),
       html()
     ]
   }).then(() => {

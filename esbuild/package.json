@@ -11,7 +11,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "esbuild": "^0.15.8"
+    "esbuild": "^0.15.8",
+    "serve": "^14.0.1"
   },
   "dependencies": {
     "react": "^18.2.0",
